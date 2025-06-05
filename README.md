@@ -1,6 +1,21 @@
 # 🤖 Hand Gesture Recognition for Sign Language Communication
 
-A Final Year Project that translates American Sign Language (ASL) gestures into text/speech and vice versa using Deep Learning and Computer Vision. This system improves communication for hearing-impaired individuals using a real-time bidirectional interface.
+the project translates American Sign Language (ASL) gestures into text/speech and vice versa using Deep Learning and Computer Vision. This system improves communication for hearing-impaired individuals using a real-time bidirectional interface.
+
+This project is part of our **Final Year Engineering Curriculum** and aims to bridge the communication gap between hearing-impaired and hearing individuals using **Deep Learning**, **Computer Vision**, and **Gesture Recognition**.
+
+---
+
+## 👥 Team Members
+
+- **DHARMA DEVI K** – Final Year Student, B.Tech - Information Technology  
+  Arulmigu Meenakshi Amman College of Engineering  
+  GitHub: [@DHARMADEVIKEERTHI](https://github.com/DHARMADEVIKEERTHI)
+  
+- **PERUMAL K**  
+Final Year Student, B.Tech - Information Technology  
+Arulmigu Meenakshi Amman College of Engineering
+GitHub: [@DHARMADEVIKEERTHI](https://github.com/DHARMADEVIKEERTHI)
 
 ---
 
@@ -89,7 +104,12 @@ Include multi-hand and dynamic gesture recognition.
 
 Mobile/web deployment with TensorFlow Lite or ONNX.
 
-## 🙋‍♀️ Author
-DHARMA DEVI K
-Final Year Student, B.Tech - Information Technology
-Arulmigu Meenakshi Amman College of Engineering
+## 📜 License
+This repository is for academic and educational purposes only. Please contact us for permission before using it in commercial projects.
+
+## 🙌 Acknowledgment
+This project was completed as part of the final semester coursework under the guidance of faculty at Arulmigu Meenakshi Amman College of Engineering.
+
+---
+
+Let me know your Google Drive link and team members if you'd like me to insert them directly into this file. Or if you want a `.md` file to upload, I can generate that too.
