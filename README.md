@@ -44,11 +44,11 @@ Due to file size limits on GitHub, the dataset used for training and testing is 
 
 └── README.md # Project description (this file)
 
-1. Install Dependencies
+## 1. Install Dependencies
 
 pip install -r requirements.txt
 
-2. Run the Application
+## 2. Run the Application
 
 ### To collect your own gesture data
 python data_collect.py
