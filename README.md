@@ -27,13 +27,21 @@ Due to file size limits on GitHub, the dataset used for training and testing is 
 
 ## 🗂️ Folder Structure
 ├── asl_model_mobilenetv2.h5 # Trained model for ASL recognition
+
 ├── data_collect.py # Script to collect gesture images
+
 ├── train.py # Model training script
+
 ├── main.py # Main execution: ASL gesture to text/speech
+
 ├── voiceto sign.py # Voice input converted to animated sign output
+
 ├── requirements.txt # Python dependencies
+
 ├── Hand Gesture Recognition Report.pdf # Detailed project documentation
+
 ├── PPT.pptx # Presentation slide deck
+
 └── README.md # Project description (this file)
 
 1. Install Dependencies
@@ -42,16 +50,16 @@ pip install -r requirements.txt
 
 2. Run the Application
 
-# To collect your own gesture data
+### To collect your own gesture data
 python data_collect.py
 
-# To train your own model
+### To train your own model
 python train.py
 
-# To recognize gestures and convert to text/speech
+### To recognize gestures and convert to text/speech
 python main.py
 
-# To convert voice to sign animation
+### To convert voice to sign animation
 python "voiceto sign.py"
 
 ## 🧠 Technologies Used
